@@ -1,9 +1,7 @@
 <svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
 	<foreignObject width="100%" height="100%">
 		<div xmlns="http://www.w3.org/1999/xhtml">
-
-        <style>
-
+            <style>
             *, *::after, *::before {
             margin: 0;
             padding: 0;
@@ -12,7 +10,6 @@
             transform-style: preserve-3d;
             -webkit-tap-highlight-color: transparent;
             }
-
             /* Generic */
             body {
             display: flex;
@@ -24,11 +21,9 @@
             cursor: pointer;
             background-image: radial-gradient(circle, #171424, black);
             }
-
             .face {
             position: absolute;
             }
-
             /***************/
             .house {
             position: absolute;
@@ -36,7 +31,6 @@
             height: 28vw;
             transform: perspective(90vw) rotateX(75deg) rotateZ(45deg) translateZ(-9vw);
             }
-
             .h-shadow {
             position: absolute;
             top: 0;
@@ -45,7 +39,6 @@
             height: 100%;
             box-shadow: 1.5vw -3vw 3vw black, 1.5vw 0.5vw 1.5vw black;
             }
-
             .h-lights {
             position: absolute;
             top: 50%;
@@ -54,7 +47,6 @@
             width: 45vw;
             height: 45vw;
             }
-
             .h-light {
             position: absolute;
             }
@@ -131,7 +123,6 @@
             background-image: linear-gradient(to left, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.7));
             filter: blur(0.35vw);
             }
-
             /***************/
             /***************/
             .alt {
@@ -286,7 +277,6 @@
             .alt__bottom {
             background-color: #383358;
             }
-
             .alb {
             position: absolute;
             left: 0;
@@ -348,7 +338,6 @@
             .alb__bottom {
             background-color: #383358;
             }
-
             .arb {
             position: absolute;
             right: 0;
@@ -418,7 +407,6 @@
             .arb__bottom {
             background-color: #383358;
             }
-
             /***************/
             /***************/
             .blt {
@@ -497,7 +485,6 @@
             .blt__bottom {
             background-color: #383358;
             }
-
             .blt2 {
             position: absolute;
             left: 0;
@@ -569,7 +556,6 @@
             .blt2__bottom {
             background-color: #383358;
             }
-
             .blb {
             position: absolute;
             left: 1vw;
@@ -643,7 +629,6 @@
             .blb__bottom {
             background-color: #383358;
             }
-
             .blb2 {
             position: absolute;
             left: 2vw;
@@ -715,7 +700,6 @@
             .blb2__bottom {
             background-color: #383358;
             }
-
             /***************/
             /***************/
             .bocina-l,
@@ -781,7 +765,6 @@
             .bocina-r__bottom {
             background-color: #383358;
             }
-
             .bocina-l__front {
             background-image: linear-gradient(to right, #5189fb, #595388 30%, #b7a5ed);
             }
@@ -808,7 +791,6 @@
             background-image: linear-gradient(to left, rgba(7, 23, 39, 0.75), rgba(0, 0, 0, 0.75));
             filter: blur(0.5vw);
             }
-
             .bocina-r {
             top: 5.25vw;
             }
@@ -838,7 +820,6 @@
             background-image: linear-gradient(to right, rgba(7, 23, 39, 0.75), rgba(0, 0, 0, 0.75));
             filter: blur(0.5vw);
             }
-
             .repisa-t,
             .repisa-b {
             position: absolute;
@@ -930,11 +911,9 @@
             height: 100%;
             background-image: linear-gradient(to right, rgba(6, 78, 224, 0.75), transparent);
             }
-
             .repisa-b {
             transform: translateZ(5vw);
             }
-
             .tv {
             position: absolute;
             left: 1.51vw;
@@ -1023,7 +1002,6 @@
             .tv__bottom {
             background-color: #0b0c1f;
             }
-
             .librero {
             position: absolute;
             left: 13vw;
@@ -1109,11 +1087,9 @@
             height: 100%;
             background-image: linear-gradient(to bottom, rgba(31, 104, 249, 0.75), transparent);
             }
-
             .libros {
             position: absolute;
             }
-
             .libro {
             position: absolute;
             top: 1vw;
@@ -1224,11 +1200,9 @@
             transform-origin: left;
             transform: translateZ(7.25vw) rotateY(-90deg);
             }
-
             .fotos {
             position: absolute;
             }
-
             .foto {
             position: absolute;
             width: 0.125vw;
@@ -1333,11 +1307,9 @@
             top: 15vw;
             transform: translateZ(5.26vw) rotateZ(-15deg);
             }
-
             .cajas {
             position: absolute;
             }
-
             .caja {
             position: absolute;
             width: 1vw;
@@ -1438,7 +1410,6 @@
             .caja:nth-of-type(3) {
             top: 17vw;
             }
-
             .cuadro-l,
             .cuadro-r {
             position: absolute;
@@ -1517,7 +1488,6 @@
             .cuadro-r__bottom {
             background-color: #383358;
             }
-
             .cuadro-l__front {
             background-image: url("https://rawcdn.githack.com/ricardoolivaalonso/Codepen/43200238c3177b02a97423fa6cc23f8bfcc5c105/Room/cuadro-1.jpg");
             background-color: #D51E24;
@@ -1533,7 +1503,6 @@
             background-origin: padding-box;
             background-image: linear-gradient(to bottom, rgba(40, 125, 210, 0.15), rgba(40, 125, 210, 0.15));
             }
-
             .cuadro-r {
             left: 20vw;
             }
@@ -1552,7 +1521,6 @@
             background-origin: padding-box;
             background-image: linear-gradient(to bottom, rgba(40, 125, 210, 0.15), rgba(40, 125, 210, 0.15));
             }
-
             .puerta-c {
             position: absolute;
             left: 3vw;
@@ -1569,7 +1537,6 @@
             background-color: rgba(0, 0, 0, 0.65);
             filter: blur(0.5vw);
             }
-
             .puerta {
             position: absolute;
             left: 0.5vw;
@@ -1635,7 +1602,6 @@
             background-color: #9E99C1;
             box-shadow: 0.125vw 0.125vw 0.25vw rgba(81, 137, 251, 0.6), -0.125vw 0.125vw 0.25vw rgba(81, 137, 251, 0.6), -0.125vw -0.125vw 0.25vw rgba(81, 137, 251, 0.6), 0.125vw -0.125vw 0.25vw rgba(81, 137, 251, 0.6);
             }
-
             .puerta-l,
             .puerta-r {
             position: absolute;
@@ -1706,11 +1672,9 @@
             .puerta-r__bottom {
             background-color: #0b0c1f;
             }
-
             .puerta-r {
             left: calc(100% - .5vw);
             }
-
             .puerta-t {
             left: 0;
             top: 0;
@@ -1772,7 +1736,6 @@
             .puerta-t__bottom {
             background-color: #0b0c1f;
             }
-
             .muro {
             position: absolute;
             left: 1vw;
@@ -1876,7 +1839,6 @@
             transform: skewY(-20deg);
             filter: blur(0.25vw);
             }
-
             .sillon-c {
             position: absolute;
             right: 2vw;
@@ -1895,7 +1857,6 @@
             background-color: rgba(11, 12, 31, 0.85);
             filter: blur(0.75vw);
             }
-
             .sillon-b {
             position: absolute;
             left: 0;
@@ -1972,7 +1933,6 @@
             .sillon-b__bottom {
             background-color: #0b0c1f;
             }
-
             .sillon-l,
             .sillon-r {
             position: absolute;
@@ -2056,11 +2016,9 @@
             .sillon-r__bottom {
             background-color: #0b0c1f;
             }
-
             .sillon-r {
             top: 0;
             }
-
             .sillon-t {
             position: absolute;
             right: 0;
@@ -2132,7 +2090,6 @@
             .sillon-t__bottom {
             background-color: #0b0c1f;
             }
-
             .mesa-c {
             position: absolute;
             left: 7vw;
@@ -2141,7 +2098,6 @@
             height: 9vw;
             transform: translateZ(0.5vw);
             }
-
             .mesa-shadow {
             position: absolute;
             width: 100%;
@@ -2151,7 +2107,6 @@
             filter: blur(1vw);
             transform: translateZ(0);
             }
-
             .mesa {
             position: absolute;
             left: 0;
@@ -2243,7 +2198,6 @@
             .mesa__bottom {
             background-color: #0b0c1f;
             }
-
             .mesa-p {
             position: absolute;
             width: 0.25vw;
@@ -2331,7 +2285,6 @@
             right: 0.5vw;
             bottom: 0.5vw;
             }
-
             .tablet {
             position: absolute;
             left: 13vw;
@@ -2397,7 +2350,6 @@
             background-color: black;
             box-shadow: 0.25vw 0.25vw 0.5vw rgba(24, 74, 124, 0.75), -0.25vw 0.25vw 0.5vw rgba(24, 74, 124, 0.75), -0.25vw -0.25vw 0.5vw rgba(24, 74, 124, 0.75), 0.25vw -0.25vw 0.5vw rgba(24, 74, 124, 0.75);
             }
-
             /**********************/
             /**********************/
             @keyframes pantalla-tablet {
@@ -2416,11 +2368,8 @@
                 background-image: radial-gradient(rgba(36, 112, 188, 0.8), rgba(56, 121, 250, 0.8));
             }
             }
-
         </style>
-
-
-        <div class="house" id="h"> 
+<div class="house" id="h">
     <div class="h-lights">
       <div class="h-light"></div>
       <div class="h-light"></div>
@@ -2435,7 +2384,7 @@
       <div class="alt__back face"> </div>
       <div class="alt__right face"> </div>
       <div class="alt__left face"> </div>
-      <div class="alt__top face"> 
+      <div class="alt__top face">
         <div class="light"></div>
         <div class="light"></div>
         <div class="light"></div>
@@ -2554,7 +2503,7 @@
       <div class="librero__top face"> </div>
       <div class="librero__bottom face">    </div>
     </div>
-    <div class="libros"> 
+    <div class="libros">
       <div class="libro">
         <div class="libro__front face"> </div>
         <div class="libro__back face"> </div>
@@ -2604,7 +2553,7 @@
         <div class="libro__bottom face"> </div>
       </div>
     </div>
-    <div class="fotos"> 
+    <div class="fotos">
       <div class="foto">
         <div class="foto__front face"> </div>
         <div class="foto__back face"> </div>
@@ -2622,7 +2571,7 @@
         <div class="foto__bottom face"> </div>
       </div>
     </div>
-    <div class="cajas"> 
+    <div class="cajas">
       <div class="caja">
         <div class="caja__front face"> </div>
         <div class="caja__back face"> </div>
@@ -2780,19 +2729,7 @@
       <div class="tablet__left face"> </div>
       <div class="tablet__top face"> </div>
       <div class="tablet__bottom face">    </div>
-    </div>
-  </div>
-
-
-
-
-
-
-
-
-
-
-
-        </div>
-	</foreignObject>
-</svg>
+    </div  </div        
+            </div>
+        </foreignObject>
+    </svg>
