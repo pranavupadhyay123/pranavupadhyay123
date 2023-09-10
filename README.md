@@ -7,3 +7,5 @@ As a game developer, I have honed my skills in game design, coding, and troubles
 In addition to my technical skills, I have excellent communication and collaboration abilities. I thrive in team environments and enjoy working with people from different backgrounds and technical expertise levels.
 
 ![7sfa5k](https://github.com/pranavupadhyay123/pranavupadhyay123/assets/62388521/8f0402fd-9579-445b-8d85-3c77232ae8d2)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=pranavupadhyay123&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=600)](https://git.io/streak-stats)
