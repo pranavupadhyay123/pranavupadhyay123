@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranavupadhyay123" alt="pranavupadhyay123" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [pranavlabs.co](pranavlabs.co)
+- 👨‍💻 All of my projects are available at [pranavlabs](https://portfolio-eta-five-63.vercel.app/)
 
 - 📫 How to reach me **pannuupadhyay123@gmail.com**
 
